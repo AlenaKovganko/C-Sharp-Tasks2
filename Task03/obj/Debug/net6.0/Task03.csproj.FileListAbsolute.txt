@@ -1,0 +1,16 @@
+D:\Учеба\C#\Seminar22_11_2021\Task03\bin\Debug\net6.0\Task03.exe
+D:\Учеба\C#\Seminar22_11_2021\Task03\bin\Debug\net6.0\Task03.deps.json
+D:\Учеба\C#\Seminar22_11_2021\Task03\bin\Debug\net6.0\Task03.runtimeconfig.json
+D:\Учеба\C#\Seminar22_11_2021\Task03\bin\Debug\net6.0\Task03.dll
+D:\Учеба\C#\Seminar22_11_2021\Task03\bin\Debug\net6.0\ref\Task03.dll
+D:\Учеба\C#\Seminar22_11_2021\Task03\bin\Debug\net6.0\Task03.pdb
+D:\Учеба\C#\Seminar22_11_2021\Task03\obj\Debug\net6.0\Task03.GlobalUsings.g.cs
+D:\Учеба\C#\Seminar22_11_2021\Task03\obj\Debug\net6.0\Task03.csproj.AssemblyReference.cache
+D:\Учеба\C#\Seminar22_11_2021\Task03\obj\Debug\net6.0\Task03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\C#\Seminar22_11_2021\Task03\obj\Debug\net6.0\Task03.AssemblyInfoInputs.cache
+D:\Учеба\C#\Seminar22_11_2021\Task03\obj\Debug\net6.0\Task03.AssemblyInfo.cs
+D:\Учеба\C#\Seminar22_11_2021\Task03\obj\Debug\net6.0\Task03.csproj.CoreCompileInputs.cache
+D:\Учеба\C#\Seminar22_11_2021\Task03\obj\Debug\net6.0\Task03.dll
+D:\Учеба\C#\Seminar22_11_2021\Task03\obj\Debug\net6.0\ref\Task03.dll
+D:\Учеба\C#\Seminar22_11_2021\Task03\obj\Debug\net6.0\Task03.pdb
+D:\Учеба\C#\Seminar22_11_2021\Task03\obj\Debug\net6.0\Task03.genruntimeconfig.cache
