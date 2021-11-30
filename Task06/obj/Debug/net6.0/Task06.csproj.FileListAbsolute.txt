@@ -1,0 +1,16 @@
+D:\Учеба\C#\Seminar22_11_2021\Task06\obj\Debug\net6.0\Task06.GlobalUsings.g.cs
+D:\Учеба\C#\Seminar22_11_2021\Task06\obj\Debug\net6.0\Task06.csproj.AssemblyReference.cache
+D:\Учеба\C#\Seminar22_11_2021\Task06\obj\Debug\net6.0\Task06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\C#\Seminar22_11_2021\Task06\obj\Debug\net6.0\Task06.AssemblyInfoInputs.cache
+D:\Учеба\C#\Seminar22_11_2021\Task06\obj\Debug\net6.0\Task06.AssemblyInfo.cs
+D:\Учеба\C#\Seminar22_11_2021\Task06\obj\Debug\net6.0\Task06.csproj.CoreCompileInputs.cache
+D:\Учеба\C#\Seminar22_11_2021\Task06\bin\Debug\net6.0\Task06.exe
+D:\Учеба\C#\Seminar22_11_2021\Task06\bin\Debug\net6.0\Task06.deps.json
+D:\Учеба\C#\Seminar22_11_2021\Task06\bin\Debug\net6.0\Task06.runtimeconfig.json
+D:\Учеба\C#\Seminar22_11_2021\Task06\bin\Debug\net6.0\Task06.dll
+D:\Учеба\C#\Seminar22_11_2021\Task06\bin\Debug\net6.0\ref\Task06.dll
+D:\Учеба\C#\Seminar22_11_2021\Task06\bin\Debug\net6.0\Task06.pdb
+D:\Учеба\C#\Seminar22_11_2021\Task06\obj\Debug\net6.0\Task06.dll
+D:\Учеба\C#\Seminar22_11_2021\Task06\obj\Debug\net6.0\ref\Task06.dll
+D:\Учеба\C#\Seminar22_11_2021\Task06\obj\Debug\net6.0\Task06.pdb
+D:\Учеба\C#\Seminar22_11_2021\Task06\obj\Debug\net6.0\Task06.genruntimeconfig.cache
